@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anitacheung83
 - 👀 I’m interested in AI and machine learning
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 
 
