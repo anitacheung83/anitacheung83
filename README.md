@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @anitacheung
 <!-- - 👀 I’m interested in AI and machine learning -->
 <!-- - 💞️ I’m looking to collaborate on anything -->
-- 📫 How to reach me 
+- 📫 How to reach me
+
+- Currently working on [Timetable Factory] (thetimetablefactory.com)
 
 <!---
 anitacheung83/anitacheung83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
